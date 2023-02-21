@@ -25,6 +25,7 @@ body {
   align-items: center;
   margin: 2px 4px;
   border-radius: 0;
+  cursor: pointer;
 }
 i::before {
   font-size: 60px;
