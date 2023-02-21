@@ -27,9 +27,6 @@ body {
   border-radius: 0;
   cursor: pointer;
 }
-.item:first-child {
-  margin-left: 0;
-}
 i::before {
   font-size: 60px;
 }
