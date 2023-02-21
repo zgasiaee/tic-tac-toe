@@ -26,9 +26,6 @@ body {
   margin: 2px 4px;
   border-radius: 0;
 }
-/* .btn:first-child {
-    margin-left: 0;
-} */
 i::before {
   font-size: 60px;
 }
