@@ -6,7 +6,7 @@
 body {
   background-color: #f5f5f5;
 }
-.btn-group {
+.item-group {
   width: 35%;
   height: 35%;
   display: flex;
@@ -15,7 +15,7 @@ body {
   flex-wrap: wrap;
   margin: 4em auto;
 }
-.btn {
+.item {
   width: 150px;
   height: 150px;
   border: 1px solid #2196f3;
@@ -26,6 +26,9 @@ body {
   margin: 2px 4px;
   border-radius: 0;
   cursor: pointer;
+}
+.item:first-child {
+  margin-left: 0;
 }
 i::before {
   font-size: 60px;
