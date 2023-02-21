@@ -1,7 +1,7 @@
 $(document).ready(function () {
   var count = 0
 
-  $('.btn').click(function () {
+  $('.item').click(function () {
     count = count + 1
 
     var icon1 = $('<i></i>').addClass('fa fa-times red')
