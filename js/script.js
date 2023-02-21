@@ -1,4 +1,4 @@
-// $(document).ready(function () {
+$(document).ready(function () {
   var count = 0
 
   $('.btn').click(function () {
@@ -61,4 +61,4 @@
       }
     }
   }
-// })
+})
