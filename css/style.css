@@ -7,8 +7,8 @@ body {
   background-color: #f5f5f5;
 }
 .item-group {
-  width: 35%;
-  height: 35%;
+  width: 500px;
+  height: 450px;
   display: flex;
   justify-content: center;
   align-items: center;
